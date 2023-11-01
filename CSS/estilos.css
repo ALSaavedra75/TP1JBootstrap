@@ -4,7 +4,7 @@
 }
 .fondo{
     background: rgb(156,156,162);
-    background: linear-gradient(90deg, rgba(156,156,162,1) 0%, rgba(204,246,246,0.9981966322746829) 48%);
+    background: linear-gradient(90deg, rgba(156,156,162,1) 0%, rgba(75, 90, 233, 0.998) 48%);
 }
    .animate__animated.animate__shakeY { 
     --animate-duration: 10s;
@@ -14,4 +14,5 @@
     --animate-duration: 10s;
     --animate-delay: 0.9s;
   }
+  
   
